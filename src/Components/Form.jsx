@@ -2,9 +2,9 @@ import React from 'react'
 
 import { Alert, Button, Form, Spinner } from "react-bootstrap";
 
+// const apiUrl = process.env.API_KEY_INFO
 
-
-export const FormToContact = ({ apiUrl, theme }) => {
+export const FormToContact = ({ apiUrl, theme}) => {
   const [isValidated, setIsValidated] = React.useState(false);
   const [isProcessing, setIsProcessing] = React.useState(false);
   const [success, setSuccess] = React.useState(false);

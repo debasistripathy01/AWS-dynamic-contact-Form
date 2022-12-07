@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/AWS-dynamic-contact-Form/static/css/main.08aabb56.css",
-    "main.js": "/AWS-dynamic-contact-Form/static/js/main.63016702.js",
+    "main.js": "/AWS-dynamic-contact-Form/static/js/main.18bdc097.js",
     "static/js/787.d9409a97.chunk.js": "/AWS-dynamic-contact-Form/static/js/787.d9409a97.chunk.js",
     "index.html": "/AWS-dynamic-contact-Form/index.html",
     "main.08aabb56.css.map": "/AWS-dynamic-contact-Form/static/css/main.08aabb56.css.map",
-    "main.63016702.js.map": "/AWS-dynamic-contact-Form/static/js/main.63016702.js.map",
+    "main.18bdc097.js.map": "/AWS-dynamic-contact-Form/static/js/main.18bdc097.js.map",
     "787.d9409a97.chunk.js.map": "/AWS-dynamic-contact-Form/static/js/787.d9409a97.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.08aabb56.css",
-    "static/js/main.63016702.js"
+    "static/js/main.18bdc097.js"
   ]
 }

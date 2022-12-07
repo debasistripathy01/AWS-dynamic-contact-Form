@@ -12,7 +12,7 @@ import styled from 'styled-components';
 import { createGlobalStyle } from "styled-components";
 import { FormToContact } from './Components/Form';
 
-const apiUrl = process.env.API_KEY_AWS;
+const apiUrl = process.env.API_KEY_INFO;
 const darkMode = window.matchMedia("(prefers-color-scheme: dark)").matches;
 
 
@@ -180,7 +180,7 @@ function App() {
           </Title>
         </Container>
         <Container>
-          <FormToContact apiUrl={apiUrl} theme={themes[theme]} />
+          <FormToContact apiUrl={`${apiUrl}`} theme={themes[theme]} />
         </Container>
       </main>
     </ThemeProvider>
